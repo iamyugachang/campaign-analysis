@@ -1,0 +1,5 @@
+.git/
+.ipy*
+__py*
+_*
+*.gslides
